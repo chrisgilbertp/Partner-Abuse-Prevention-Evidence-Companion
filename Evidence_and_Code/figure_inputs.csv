@@ -1,0 +1,7 @@
+trial_id,label,endpoint,followup,estimate,lower_95_ci,upper_95_ci,measure,source,locator
+PA01,Gender dialogue and savings,Physical or sexual IPV,Endline,0.92,0.58,1.47,OR,https://doi.org/10.1186/1472-698X-13-46,Table 3 intention-to-treat contrast
+PA03,Bandebereho,Physical IPV,21 months,0.37,0.28,0.49,OR,https://doi.org/10.1016/j.eclinm.2023.102233,Women’s outcome table adjusted model
+PA03,Bandebereho,Physical IPV,6 years,0.45,0.34,0.60,OR,https://doi.org/10.1016/j.eclinm.2023.102233,Women’s outcome table adjusted model
+PA05,Unite for a Better Life,Physical IPV,About 24 months,1.00,0.77,1.30,OR,https://doi.org/10.1371/journal.pmed.1003274,Results primary outcomes couples arm versus control
+PA05,Unite for a Better Life,Sexual IPV,About 24 months,0.86,0.62,1.20,OR,https://doi.org/10.1371/journal.pmed.1003274,Results primary outcomes couples arm versus control
+PA09,Pregnancy-focused education,Any IPV in pregnancy,Postpartum,0.259,0.161,0.417,OR,https://doi.org/10.1371/journal.pone.0317667,Abstract and results adjusted model

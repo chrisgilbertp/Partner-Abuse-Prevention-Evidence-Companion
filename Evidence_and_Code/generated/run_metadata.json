@@ -1,0 +1,12 @@
+{
+  "command": "python reproduce_figure.py",
+  "python": "3.12.14",
+  "matplotlib": "3.10.8",
+  "input_sha256": {
+    "trials.csv": "d2cc80164acfaccc91f288d2187c3a72502656d2295fadeda83a1f259f32f551",
+    "figure_inputs.csv": "6a8827730d797e1057a2bca5b9429c1318708d2d913d770236d8337278ee95e0"
+  },
+  "trials": 9,
+  "countries": 7,
+  "published_estimates_plotted": 6
+}
