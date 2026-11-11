@@ -1,0 +1,16 @@
+Dear Editors,
+
+Please consider “Couple-Based Programs for Preventing Partner Abuse in Sub-Saharan Africa” as a literature review for Partner Abuse.
+
+The review examines nine randomized trials across seven countries. It distinguishes the effect of offering a prevention program from the narrower effect of delivering it jointly to both partners. It also considers what the trials can establish about safety and applicability to counseling. The paper connects prevention evidence from community and health-service settings with questions relevant to researchers, intervention providers, clinicians, and advocates.
+
+The Methods describe the targeted narrative search and the use of Claude and ChatGPT in the supplied draft and its revision. An evidence ledger and code document the original published estimates used in the figure.
+
+[Confirm the full author list and affiliations, funding and competing interests, all author approvals, originality and exclusive submission. Update the AI-use disclosure to describe the final author-verified manuscript and the applicable journal policy.]
+
+Thank you for considering the review.
+
+Chris Gilbert
+Proposed corresponding author
+William V. S. Tubman University
+cabilimi@tubmanu.edu.lr
